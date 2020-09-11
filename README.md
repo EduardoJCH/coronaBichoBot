@@ -17,6 +17,10 @@ $ node index.js
 	![](.img/buscar.png)
 2. Ya podemos hablarle
 3. Por si queremos que nos aparezca el keyboard: /start  
-	![](.img/start.png)  
-	![](.img/keyboard.png)  
+	![](.img/start.png)   
+	![](.img/keyboard.png)   
+## Data a usar: Minsa
+> [Click aquí para acceder a: Sala Situacional COVID-19 Perú](https://covid19.minsa.gob.pe/sala_situacional.asp)
 
+![](.img/salaSituacional.png)  
+![](.img/datosAbiertos.png)  
