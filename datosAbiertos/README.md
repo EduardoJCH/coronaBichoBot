@@ -51,14 +51,14 @@
 	2. Departamentos
 		1. AMAZONAS
 			```r
-			> b<-filter(a,str_detect(DEPARTAMENTO,"AMAZONAS"))
-			> nrow(b)
+			b<-filter(a,str_detect(DEPARTAMENTO,"AMAZONAS"))
+			nrow(b)
 			[1] 200
 			```
 		2. ANCASH
 			```r
-			> b<-filter(a,str_detect(DEPARTAMENTO,"ANCASH"))
-			> nrow(b)
+			b<-filter(a,str_detect(DEPARTAMENTO,"ANCASH"))
+			nrow(b)
 			[1] 1214
 			```
 		3. APURIMAC
@@ -171,31 +171,31 @@
 			```
 		21. PUNO
 			```r
-			> b<-filter(a,str_detect(DEPARTAMENTO,"PUNO"))
-			> nrow(b)
+			b<-filter(a,str_detect(DEPARTAMENTO,"PUNO"))
+			nrow(b)
 			[1] 264
 			```
 		22. SAN MARTIN
 			```r
-			> b<-filter(a,str_detect(DEPARTAMENTO,"SAN MARTIN"))
-			> nrow(b)
+			b<-filter(a,str_detect(DEPARTAMENTO,"SAN MARTIN"))
+			nrow(b)
 			[1] 671
 			```
 		23. TACNA
 			```r
-			> b<-filter(a,str_detect(DEPARTAMENTO,"TACNA"))
-			> nrow(b)
+			b<-filter(a,str_detect(DEPARTAMENTO,"TACNA"))
+			nrow(b)
 			[1] 172
 			```
 		24. TUMBES
 			```r
-			> b<-filter(a,str_detect(DEPARTAMENTO,"TUMBES"))
-			> nrow(b)
+			b<-filter(a,str_detect(DEPARTAMENTO,"TUMBES"))
+			nrow(b)
 			[1] 285
 			```
 		25. UCAYALI
 			```r
-			> b<-filter(a,str_detect(DEPARTAMENTO,"UCAYALI"))
-			> nrow(b)
+			b<-filter(a,str_detect(DEPARTAMENTO,"UCAYALI"))
+			nrow(b)
 			[1] 305
 			```
